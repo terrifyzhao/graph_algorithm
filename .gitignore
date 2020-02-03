@@ -132,4 +132,5 @@ dmypy.json
 
 .DS_Store
 
-musicknowledge.ttl
+data/musicknowledge.ttl
+data/data.json
